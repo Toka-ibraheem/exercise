@@ -1,0 +1,36 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+
+}
+.member
+{
+width: 25%;
+border: solid black 3px;
+position: relative;
+background-color: cadetblue;
+text-align: center;
+color: cornsilk;
+}
+.member-caption
+{
+background-color: rgba(47, 51, 38,0,7);
+position: absolute;
+top: 0;
+left: 0;
+}
+.member img
+{
+    width: 100%;
+}
+.member h2
+{
+background-color: darkmagenta;
+padding: 10px;
+}
+.member p
+{
+    padding: 15px;
+    font-size: 20px;
+}
